@@ -1,0 +1,40 @@
+.chapterList {
+  position: relative;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.chapterList li {
+  position: relative;
+}
+
+.chapterList p {
+  float: left;
+  font-size: 20px;
+  margin: 10px;
+  padding: 10px;
+  height: 70px;
+  line-height: 50px;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+.chapterList .acts {
+  float: right;
+  font-size: 14px;
+}
+
+.videoList {
+  padding-left: 50px;
+}
+
+.videoList p {
+  float: left;
+  font-size: 14px;
+  margin: 18px;
+  padding: 10px;
+  height: 50px;
+  line-height: 30px;
+  width: 100%;
+  border: 1px dotted #ddd;
+}
